@@ -1,0 +1,36 @@
+.list {
+  display: flex;
+  list-style: none;
+  gap: 1.25rem;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.list a {
+  text-decoration: none;
+  color: #ffff;
+}
+
+.list a:hover {
+  color: #e4a30b;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000;
+  padding: 1em;
+}
+
+.list li a::after {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 0%;
+  background-color: #e4a30b;
+  margin-top: 3px;
+}
+.list li a:hover::after {
+  width: 100%;
+  transition: 0.6s;
+}

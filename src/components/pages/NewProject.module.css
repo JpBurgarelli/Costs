@@ -1,0 +1,14 @@
+.NewProject_container {
+  width: 28.1rem;
+  margin: 0 auto;
+}
+
+.NewProject_container h1 {
+  margin-bottom: 0.5em;
+  margin-top: 1.5em;
+}
+
+.NewProject_container p {
+  color: #595959;
+  margin-bottom: 1em;
+}

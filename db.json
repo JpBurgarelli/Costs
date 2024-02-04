@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "LeandroOllheiroDAqUEBRADA",
+      "budget": "5600",
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "Inova",
+      "budget": "1200",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 750,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

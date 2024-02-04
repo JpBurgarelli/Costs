@@ -1,0 +1,27 @@
+body {
+  font-size: 1.6rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #e4a30b;
+}
+
+html,
+#root {
+  background-color: #efefef;
+  height: 100%;
+  font-size: 62.5%;
+}
