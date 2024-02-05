@@ -58,6 +58,6 @@ npm start
 ![image](https://github.com/JpBurgarelli/Costs/assets/30197026/96363fe4-fa6a-4dac-8ae3-334029195f32)
 
 
-# Pessoas que me ajudaram direta ou indiretamente a desenvolver o projeto:
+### Pessoas que me ajudaram direta ou indiretamente a desenvolver o projeto:
 * Matheus Battisti - Hora de Codar
 * Rafael Bigeschi de Almeida - RafaelBig-BSI
