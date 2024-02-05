@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Foi desenvolvido um aplicativo de gerenciamento de projetos utilizando React.js, centrado na eficiência do CRUD (Create, Read, Update, Delete). O aplicativo permite que o usuário cadastre, edite, liste e exclua projetos, com uma abordagem voltada para a componentização. A aplicação integra o consumo de uma API 'fake', utilizando json-server para acessar métodos por meio do fetch. A navegação é facilitada por um sistema de rotas que transmite os 'id' de cada projeto pela URL.
 
-In the project directory, you can run:
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
+* Para instalar as dependências necessárias
+```bash
+npm install
+```
+*  Após inicializar o projeto, abra uma nova aba do terminal e execute o comando abaixo para inicializar o servidor :
+```bash
+npm run backend
+```
 
-### `npm start`
+* Iniciar a aplicação
+```bash
+npm start
+```
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219471565-77dd520e-41ee-41f8-8fb9-0e259535a867.png"/> Tecnologias utilizadas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Alguns Hooks utilizados
+- useState
+- useEffect
+- useParams
+- useHistory
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+* Home
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/JpBurgarelli/Costs/assets/30197026/ca272e82-382d-4c42-aa0e-1c61553780a2)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Projetos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ![image](https://github.com/JpBurgarelli/Costs/assets/30197026/3235dd9f-fd7c-45ee-9a3c-bf4f0af5ad5c)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* Criar Projeto
+  
+![image](https://github.com/JpBurgarelli/Costs/assets/30197026/abdf56b5-98a6-41df-9023-514a6779e2ff)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Meus Projetos
+  
+![image](https://github.com/JpBurgarelli/Costs/assets/30197026/04c816e1-adaa-4b69-8f64-ccf3829f5d27)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+* Serviços
+  
+![image](https://github.com/JpBurgarelli/Costs/assets/30197026/96363fe4-fa6a-4dac-8ae3-334029195f32)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Pessoas que me ajudaram direta ou indiretamente a desenvolver o projeto:
+* Matheus Battisti - Hora de Codar
+* Rafael Bigeschi de Almeida - RafaelBig-BSI
